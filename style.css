@@ -117,3 +117,9 @@ li span{
     color: #ffffff;
     font-family: 'Times New Roman', Times, serif;
 }
+.logo{
+  position: fixed;
+  top: 0;
+  left: 0;
+
+}
